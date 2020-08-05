@@ -29,7 +29,7 @@ public class Devide {
         BigDecimal dataA = new BigDecimal(tempA);
         BigDecimal dataB = new BigDecimal(tempB);
         System.out.println(dataA.compareTo(dataB));//大于为1，相同为0，小于为-1
-        System.out.println("dddskjlhsdkjfsdfhdfh");
+        System.out.println("按时打卡说的十分士大夫大师傅很好阿萨的环境");
     }
 
     public static List<String> removeDuplicate(List<String> list) {
